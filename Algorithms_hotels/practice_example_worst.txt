@@ -1,0 +1,10 @@
+Hotelhot hot 28 28 0 0 450
+Europe eur 266 189 57 20 13200
+Bagration bag 88 87 0 1 6000
+Travelto tra 18 15 2 1 3260
+Rossi ros 75 70 5 0 10000
+ArtDeco art 101 100 1 0 1600
+Asroria ast 213 110 75 28 18000
+Korintia kor 388 293 90 5 8700
+Kempf kem 46 46 0 0 5000
+Talion tal 89 75 11 3 11220
